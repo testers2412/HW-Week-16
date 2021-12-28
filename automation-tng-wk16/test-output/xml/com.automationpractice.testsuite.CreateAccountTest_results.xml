@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="17.628">
+  <properties />
+  
+  
+            <testcase name="completeRegistrationAndVerify" time="6.907" classname="com.automationpractice.testsuite.CreateAccountTest" />
+                <testcase name="verifyInvalidInformationGivesErrorMessage" time="6.701" classname="com.automationpractice.testsuite.CreateAccountTest" />
+                <testcase name="verifyFormOnlyAcceptValidData" time="4.020" classname="com.automationpractice.testsuite.CreateAccountTest" />
+      
+</testsuite>

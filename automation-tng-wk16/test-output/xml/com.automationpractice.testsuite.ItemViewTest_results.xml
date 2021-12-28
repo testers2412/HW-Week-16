@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="45.858">
+  <properties />
+  
+  
+            <testcase name="summerItemDisplayedInWomanCategory" time="40.842" classname="com.automationpractice.testsuite.ItemViewTest" />
+                <testcase name="searchResultChangeByPriceRange" time="5.016" classname="com.automationpractice.testsuite.ItemViewTest" />
+      
+</testsuite>

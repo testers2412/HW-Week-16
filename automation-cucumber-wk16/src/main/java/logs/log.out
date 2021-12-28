@@ -1,0 +1,197 @@
+2021-12-27 13:12:149 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 13:12:208 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 13:12:393 INFO  HomePage :41 - Click on summer option : [[ChromeDriver: chrome on WINDOWS (a6514bc2d6866b0584c1e83fb068baf1)] -> xpath: //ul[@class='submenu-container clearfix first-in-line-xs']//ul//li//a[@title='Summer Dresses'][normalize-space()='Summer Dresses']]
+2021-12-27 14:12:494 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 14:12:24 INFO  HomePage :41 - Click on summer option : [[ChromeDriver: chrome on WINDOWS (5af85708f0d368ba22f98963214529c6)] -> xpath: //ul[@class='submenu-container clearfix first-in-line-xs']//ul//li//a[@title='Summer Dresses'][normalize-space()='Summer Dresses']]
+2021-12-27 14:12:411 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 14:12:447 INFO  HomePage :41 - Click on summer option : [[ChromeDriver: chrome on WINDOWS (9a64699f880090fcb0459b995fde4190)] -> xpath: //ul[@class='submenu-container clearfix first-in-line-xs']//ul//li//a[@title='Summer Dresses'][normalize-space()='Summer Dresses']]
+2021-12-27 14:12:115 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 14:12:106 INFO  HomePage :34 - Click on women category : [[ChromeDriver: chrome on WINDOWS (9f97467ce777f9045eb3719ba899edde)] -> xpath: //a[@title='Women']]
+2021-12-27 14:12:936 INFO  WomanPage :23 - Click on product : [[ChromeDriver: chrome on WINDOWS (9f97467ce777f9045eb3719ba899edde)] -> xpath: //h5[@itemprop='name']//a[@title='Faded Short Sleeve T-shirts']]
+2021-12-27 14:12:992 INFO  ProductsPage :29 - Click on item to add in to basket : [[ChromeDriver: chrome on WINDOWS (9f97467ce777f9045eb3719ba899edde)] -> xpath: //button[@name='Submit']//span]
+2021-12-27 14:12:266 INFO  ProductsPage :34 - Click on process to check out button :  [[ChromeDriver: chrome on WINDOWS (9f97467ce777f9045eb3719ba899edde)] -> xpath: //a[@title='Proceed to checkout']//span]
+2021-12-27 14:12:326 INFO  ShoppingCartPage :30 - Verify the delete button is displayed :[[ChromeDriver: chrome on WINDOWS (9f97467ce777f9045eb3719ba899edde)] -> xpath: //a[@title='Delete']//i]
+2021-12-27 14:12:386 INFO  ShoppingCartPage :35 - Click on Delete button : [[ChromeDriver: chrome on WINDOWS (9f97467ce777f9045eb3719ba899edde)] -> xpath: //a[@title='Delete']//i]
+2021-12-27 14:12:689 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 14:12:215 INFO  HomePage :34 - Click on women category : [[ChromeDriver: chrome on WINDOWS (8c77ea55a1cbfff62c44e2a98703dcf9)] -> xpath: //a[@title='Women']]
+2021-12-27 14:12:981 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 14:12:193 INFO  HomePage :34 - Click on women category : [[ChromeDriver: chrome on WINDOWS (a55d667f2ee463e5911b5a3519318c1b)] -> xpath: //a[@title='Women']]
+2021-12-27 14:12:445 INFO  WomanPage :23 - Click on product : [[ChromeDriver: chrome on WINDOWS (a55d667f2ee463e5911b5a3519318c1b)] -> xpath: //h5[@itemprop='name']//a[@title='Faded Short Sleeve T-shirts']]
+2021-12-27 14:12:502 INFO  ProductsPage :29 - Click on item to add in to basket : [[ChromeDriver: chrome on WINDOWS (a55d667f2ee463e5911b5a3519318c1b)] -> xpath: //button[@name='Submit']//span]
+2021-12-27 14:12:769 INFO  ProductsPage :34 - Click on process to check out button :  [[ChromeDriver: chrome on WINDOWS (a55d667f2ee463e5911b5a3519318c1b)] -> xpath: //a[@title='Proceed to checkout']//span]
+2021-12-27 14:12:820 INFO  ShoppingCartPage :30 - Verify the delete button is displayed :[[ChromeDriver: chrome on WINDOWS (a55d667f2ee463e5911b5a3519318c1b)] -> xpath: //a[@title='Delete']//i]
+2021-12-27 14:12:885 INFO  ShoppingCartPage :35 - Click on Delete button : [[ChromeDriver: chrome on WINDOWS (a55d667f2ee463e5911b5a3519318c1b)] -> xpath: //a[@title='Delete']//i]
+2021-12-27 14:12:73 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 14:12:891 INFO  HomePage :34 - Click on women category : [[ChromeDriver: chrome on WINDOWS (b225fe0bd380ede8e8a816259cefc0b1)] -> xpath: //a[@title='Women']]
+2021-12-27 14:12:12 INFO  WomanPage :23 - Click on product : [[ChromeDriver: chrome on WINDOWS (b225fe0bd380ede8e8a816259cefc0b1)] -> xpath: //h5[@itemprop='name']//a[@title='Faded Short Sleeve T-shirts']]
+2021-12-27 14:12:67 INFO  ProductsPage :29 - Click on item to add in to basket : [[ChromeDriver: chrome on WINDOWS (b225fe0bd380ede8e8a816259cefc0b1)] -> xpath: //button[@name='Submit']//span]
+2021-12-27 14:12:156 INFO  ProductsPage :34 - Click on process to check out button :  [[ChromeDriver: chrome on WINDOWS (b225fe0bd380ede8e8a816259cefc0b1)] -> xpath: //a[@title='Proceed to checkout']//span]
+2021-12-27 14:12:221 INFO  ShoppingCartPage :31 - Verify the delete button is displayed :[[ChromeDriver: chrome on WINDOWS (b225fe0bd380ede8e8a816259cefc0b1)] -> xpath: //a[@title='Delete']//i]
+2021-12-27 14:12:294 INFO  ShoppingCartPage :36 - Click on Delete button : [[ChromeDriver: chrome on WINDOWS (b225fe0bd380ede8e8a816259cefc0b1)] -> xpath: //a[@title='Delete']//i]
+2021-12-27 14:12:294 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 14:12:269 INFO  HomePage :34 - Click on women category : [[ChromeDriver: chrome on WINDOWS (d35a249847f9286d0902476bb7198979)] -> xpath: //a[@title='Women']]
+2021-12-27 14:12:358 INFO  WomanPage :23 - Click on product : [[ChromeDriver: chrome on WINDOWS (d35a249847f9286d0902476bb7198979)] -> xpath: //h5[@itemprop='name']//a[@title='Faded Short Sleeve T-shirts']]
+2021-12-27 14:12:417 INFO  ProductsPage :29 - Click on item to add in to basket : [[ChromeDriver: chrome on WINDOWS (d35a249847f9286d0902476bb7198979)] -> xpath: //button[@name='Submit']//span]
+2021-12-27 14:12:978 INFO  ProductsPage :34 - Click on process to check out button :  [[ChromeDriver: chrome on WINDOWS (d35a249847f9286d0902476bb7198979)] -> xpath: //a[@title='Proceed to checkout']//span]
+2021-12-27 14:12:27 INFO  ShoppingCartPage :30 - Verify the delete button is displayed :[[ChromeDriver: chrome on WINDOWS (d35a249847f9286d0902476bb7198979)] -> xpath: //i[@class='icon-trash']]
+2021-12-27 14:12:86 INFO  ShoppingCartPage :35 - Click on Delete button : [[ChromeDriver: chrome on WINDOWS (d35a249847f9286d0902476bb7198979)] -> xpath: //i[@class='icon-trash']]
+2021-12-27 14:12:95 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 14:12:387 INFO  HomePage :34 - Click on women category : [[ChromeDriver: chrome on WINDOWS (174a60cf956a5d6d78c35dc90051f10e)] -> xpath: //a[@title='Women']]
+2021-12-27 14:12:415 INFO  WomanPage :23 - Click on product : [[ChromeDriver: chrome on WINDOWS (174a60cf956a5d6d78c35dc90051f10e)] -> xpath: //h5[@itemprop='name']//a[@title='Faded Short Sleeve T-shirts']]
+2021-12-27 14:12:473 INFO  ProductsPage :29 - Click on item to add in to basket : [[ChromeDriver: chrome on WINDOWS (174a60cf956a5d6d78c35dc90051f10e)] -> xpath: //button[@name='Submit']//span]
+2021-12-27 14:12:478 INFO  ProductsPage :34 - Click on process to check out button :  [[ChromeDriver: chrome on WINDOWS (174a60cf956a5d6d78c35dc90051f10e)] -> xpath: //a[@title='Proceed to checkout']//span]
+2021-12-27 14:12:533 INFO  ShoppingCartPage :30 - Verify the delete button is displayed :[[ChromeDriver: chrome on WINDOWS (174a60cf956a5d6d78c35dc90051f10e)] -> xpath: //i[@class='icon-trash']]
+2021-12-27 14:12:592 INFO  ShoppingCartPage :35 - Click on Delete button : [[ChromeDriver: chrome on WINDOWS (174a60cf956a5d6d78c35dc90051f10e)] -> xpath: //i[@class='icon-trash']]
+2021-12-27 15:12:295 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 15:12:89 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 18:12:287 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 18:12:771 INFO  HomePage :34 - Click on women category : [[ChromeDriver: chrome on WINDOWS (fab90f38fd2edee141259bcdbf3da063)] -> xpath: //a[@title='Women']]
+2021-12-27 18:12:309 INFO  WomanPage :23 - Click on product : [[ChromeDriver: chrome on WINDOWS (fab90f38fd2edee141259bcdbf3da063)] -> xpath: //h5[@itemprop='name']//a[@title='Faded Short Sleeve T-shirts']]
+2021-12-27 18:12:398 INFO  ProductsPage :29 - Click on item to add in to basket : [[ChromeDriver: chrome on WINDOWS (fab90f38fd2edee141259bcdbf3da063)] -> xpath: //button[@name='Submit']//span]
+2021-12-27 18:12:613 INFO  ProductsPage :34 - Click on process to check out button :  [[ChromeDriver: chrome on WINDOWS (fab90f38fd2edee141259bcdbf3da063)] -> xpath: //a[@title='Proceed to checkout']//span]
+2021-12-27 18:12:718 INFO  ShoppingCartPage :30 - Verify the delete button is displayed :[[ChromeDriver: chrome on WINDOWS (fab90f38fd2edee141259bcdbf3da063)] -> xpath: //i[@class='icon-trash']]
+2021-12-27 18:12:810 INFO  ShoppingCartPage :35 - Click on Delete button : [[ChromeDriver: chrome on WINDOWS (fab90f38fd2edee141259bcdbf3da063)] -> xpath: //i[@class='icon-trash']]
+2021-12-27 18:12:220 INFO  ShoppingCartSummaryPage :24 - Verify the cart is emptyYour shopping cart is empty.
+2021-12-27 18:12:149 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 18:12:383 INFO  HomePage :41 - Click on summer option : [[ChromeDriver: chrome on WINDOWS (5a247b49989656a05691d3502702dbef)] -> xpath: //ul[@class='submenu-container clearfix first-in-line-xs']//ul//li//a[@title='Summer Dresses'][normalize-space()='Summer Dresses']]
+2021-12-27 18:12:434 INFO  SummerOptionPage :33 - Verify summer dress page : SUMMER DRESSES 
+2021-12-27 20:12:642 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 20:12:977 INFO  HomePage :47 - Click on sign In tab : [[ChromeDriver: chrome on WINDOWS (4f25203d2d0a5168cdcf6eda9e5ecc5a)] -> xpath: //a[@title='Log in to your customer account']]
+2021-12-27 20:12:235 INFO  SignInPage :30 - Click on create account : [[ChromeDriver: chrome on WINDOWS (4f25203d2d0a5168cdcf6eda9e5ecc5a)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-27 20:12:501 INFO  CreateAccountPage :60 - Enter first name : 123
+2021-12-27 20:12:633 INFO  CreateAccountPage :65 - Enter last name : and123
+2021-12-27 20:12:752 INFO  CreateAccountPage :70 - Enter password : asd123
+2021-12-27 20:12:834 INFO  CreateAccountPage :106 - Verify first name error : error
+2021-12-27 20:12:901 INFO  CreateAccountPage :112 - Verify last name error : error
+2021-12-27 20:12:91 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 20:12:876 INFO  HomePage :47 - Click on sign In tab : [[ChromeDriver: chrome on WINDOWS (38251f297ad4c762af88f64ad1e35610)] -> xpath: //a[@title='Log in to your customer account']]
+2021-12-27 20:12:120 INFO  SignInPage :30 - Click on create account : [[ChromeDriver: chrome on WINDOWS (38251f297ad4c762af88f64ad1e35610)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-27 20:12:384 INFO  CreateAccountPage :60 - Enter first name : ram1
+2021-12-27 20:12:515 INFO  CreateAccountPage :65 - Enter last name : 12kumar
+2021-12-27 20:12:662 INFO  CreateAccountPage :70 - Enter password : asd123
+2021-12-27 20:12:718 INFO  CreateAccountPage :106 - Verify first name error : error
+2021-12-27 20:12:775 INFO  CreateAccountPage :112 - Verify last name error : error
+2021-12-27 20:12:345 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 20:12:692 INFO  HomePage :47 - Click on sign In tab : [[ChromeDriver: chrome on WINDOWS (6f87688f0163358eea3544e7a61cb772)] -> xpath: //a[@title='Log in to your customer account']]
+2021-12-27 20:12:922 INFO  SignInPage :30 - Click on create account : [[ChromeDriver: chrome on WINDOWS (6f87688f0163358eea3544e7a61cb772)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-27 20:12:619 INFO  CreateAccountPage :60 - Enter first name : 123
+2021-12-27 20:12:740 INFO  CreateAccountPage :65 - Enter last name : and123
+2021-12-27 20:12:867 INFO  CreateAccountPage :70 - Enter password : asd123
+2021-12-27 20:12:995 INFO  CreateAccountPage :100 - Click on register : [[ChromeDriver: chrome on WINDOWS (6f87688f0163358eea3544e7a61cb772)] -> xpath: //span[normalize-space()='Register']]
+2021-12-27 20:12:34 INFO  CreateAccountPage :118 - Verify error message : [[ChromeDriver: chrome on WINDOWS (6f87688f0163358eea3544e7a61cb772)] -> xpath: //div[@class='alert alert-danger']//p]
+2021-12-27 20:12:809 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 20:12:541 INFO  HomePage :47 - Click on sign In tab : [[ChromeDriver: chrome on WINDOWS (352035cb4c04111774974e7ee0a9c811)] -> xpath: //a[@title='Log in to your customer account']]
+2021-12-27 20:12:766 INFO  SignInPage :30 - Click on create account : [[ChromeDriver: chrome on WINDOWS (352035cb4c04111774974e7ee0a9c811)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-27 20:12:75 INFO  CreateAccountPage :60 - Enter first name : ram1
+2021-12-27 20:12:202 INFO  CreateAccountPage :65 - Enter last name : 12kumar
+2021-12-27 20:12:317 INFO  CreateAccountPage :70 - Enter password : asd123
+2021-12-27 20:12:295 INFO  CreateAccountPage :100 - Click on register : [[ChromeDriver: chrome on WINDOWS (352035cb4c04111774974e7ee0a9c811)] -> xpath: //span[normalize-space()='Register']]
+2021-12-27 20:12:334 INFO  CreateAccountPage :118 - Verify error message : [[ChromeDriver: chrome on WINDOWS (352035cb4c04111774974e7ee0a9c811)] -> xpath: //div[@class='alert alert-danger']//p]
+2021-12-27 20:12:126 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 20:12:777 INFO  HomePage :47 - Click on sign In tab : [[ChromeDriver: chrome on WINDOWS (9f3ce8c8c00902f9837f63e0cb39b849)] -> xpath: //a[@title='Log in to your customer account']]
+2021-12-27 20:12:21 INFO  SignInPage :30 - Click on create account : [[ChromeDriver: chrome on WINDOWS (9f3ce8c8c00902f9837f63e0cb39b849)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-27 20:12:340 INFO  CreateAccountPage :123 - Enter first name : Ram
+2021-12-27 20:12:449 INFO  CreateAccountPage :125 - Enter last name : Kumar
+2021-12-27 20:12:549 INFO  CreateAccountPage :127 - Enter password : abc1234
+2021-12-27 20:12:668 INFO  CreateAccountPage :129 - Enter address line 1 : 9 Ayodhya Street
+2021-12-27 20:12:772 INFO  CreateAccountPage :131 - Enter city : London
+2021-12-27 20:12:938 INFO  CreateAccountPage :133 - Select state : Arizona
+2021-12-27 20:12:47 INFO  CreateAccountPage :135 - Enter postcode : 12345
+2021-12-27 20:12:170 INFO  CreateAccountPage :137 - Enter mobile number : 01234567891
+2021-12-27 20:12:624 INFO  CreateAccountPage :100 - Click on register : [[ChromeDriver: chrome on WINDOWS (9f3ce8c8c00902f9837f63e0cb39b849)] -> xpath: //span[normalize-space()='Register']]
+2021-12-27 20:12:668 INFO  MyAccountPage :29 - Verify page title : [[ChromeDriver: chrome on WINDOWS (9f3ce8c8c00902f9837f63e0cb39b849)] -> xpath: //h1[@class='page-heading']]
+2021-12-27 20:12:706 INFO  MyAccountPage :35 - Verify page has account name : Ram Kumar
+2021-12-27 20:12:485 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 20:12:684 INFO  HomePage :34 - Click on women category : [[ChromeDriver: chrome on WINDOWS (38450f1ee0edda689dad4fa70b07b81f)] -> xpath: //a[@title='Women']]
+2021-12-27 20:12:129 INFO  WomanPage :23 - Click on product : [[ChromeDriver: chrome on WINDOWS (38450f1ee0edda689dad4fa70b07b81f)] -> xpath: //h5[@itemprop='name']//a[@title='Faded Short Sleeve T-shirts']]
+2021-12-27 20:12:211 INFO  ProductsPage :29 - Click on item to add in to basket : [[ChromeDriver: chrome on WINDOWS (38450f1ee0edda689dad4fa70b07b81f)] -> xpath: //button[@name='Submit']//span]
+2021-12-27 20:12:02 INFO  ProductsPage :34 - Click on process to check out button :  [[ChromeDriver: chrome on WINDOWS (38450f1ee0edda689dad4fa70b07b81f)] -> xpath: //a[@title='Proceed to checkout']//span]
+2021-12-27 20:12:56 INFO  ShoppingCartPage :30 - Verify the delete button is displayed :[[ChromeDriver: chrome on WINDOWS (38450f1ee0edda689dad4fa70b07b81f)] -> xpath: //i[@class='icon-trash']]
+2021-12-27 20:12:146 INFO  ShoppingCartPage :35 - Click on Delete button : [[ChromeDriver: chrome on WINDOWS (38450f1ee0edda689dad4fa70b07b81f)] -> xpath: //i[@class='icon-trash']]
+2021-12-27 20:12:364 INFO  ShoppingCartSummaryPage :24 - Verify the cart is emptyYour shopping cart is empty.
+2021-12-27 20:12:234 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 20:12:558 INFO  HomePage :41 - Click on summer option : [[ChromeDriver: chrome on WINDOWS (a0b84c0e18c2472c4619c460604a4f26)] -> xpath: //ul[@class='submenu-container clearfix first-in-line-xs']//ul//li//a[@title='Summer Dresses'][normalize-space()='Summer Dresses']]
+2021-12-27 20:12:599 INFO  SummerOptionPage :33 - Verify summer dress page : SUMMER DRESSES 
+2021-12-27 20:12:436 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 20:12:473 INFO  HomePage :41 - Click on summer option : [[ChromeDriver: chrome on WINDOWS (97ea7e7def9cbd3cf7cf69cde3f328c7)] -> xpath: //ul[@class='submenu-container clearfix first-in-line-xs']//ul//li//a[@title='Summer Dresses'][normalize-space()='Summer Dresses']]
+2021-12-27 20:12:950 INFO  SummerOptionPage :40 - Change the price range : [[ChromeDriver: chrome on WINDOWS (97ea7e7def9cbd3cf7cf69cde3f328c7)] -> xpath: //div[@id='left_column']//a[2]]
+2021-12-27 20:12:211 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 20:12:154 INFO  HomePage :48 - Click on sign In tab : [[ChromeDriver: chrome on WINDOWS (a0dcf83e4c23369d7e3fb070d7637b10)] -> xpath: //a[@title='Log in to your customer account']]
+2021-12-27 20:12:397 INFO  SignInPage :30 - Click on create account : [[ChromeDriver: chrome on WINDOWS (a0dcf83e4c23369d7e3fb070d7637b10)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-27 20:12:256 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 20:12:191 INFO  HomePage :48 - Click on sign In tab : [[ChromeDriver: chrome on WINDOWS (226ab3893579d035788b8e58c6517734)] -> xpath: //a[@title='Log in to your customer account']]
+2021-12-27 20:12:442 INFO  SignInPage :30 - Click on create account : [[ChromeDriver: chrome on WINDOWS (226ab3893579d035788b8e58c6517734)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-27 20:12:584 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 20:12:195 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 20:12:112 INFO  HomePage :48 - Click on sign In tab : [[ChromeDriver: chrome on WINDOWS (e93c78b42d8d3d6e3cc518464f350205)] -> xpath: //a[@title='Log in to your customer account']]
+2021-12-27 20:12:397 INFO  SignInPage :30 - Click on create account : [[ChromeDriver: chrome on WINDOWS (e93c78b42d8d3d6e3cc518464f350205)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-27 20:12:588 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 20:12:971 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 20:12:418 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 20:12:908 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 20:12:145 INFO  HomePage :42 - Click on summer option : [[ChromeDriver: chrome on WINDOWS (34212818001492617b4ffc7dea8465c5)] -> xpath: //ul[@class='submenu-container clearfix first-in-line-xs']//ul//li//a[@title='Summer Dresses'][normalize-space()='Summer Dresses']]
+2021-12-27 20:12:191 INFO  SummerOptionPage :33 - Verify summer dress page : SUMMER DRESSES 
+2021-12-27 20:12:198 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 20:12:603 INFO  HomePage :48 - Click on sign In tab : [[ChromeDriver: chrome on WINDOWS (e9cba024772c987f6f047df530031434)] -> xpath: //a[@title='Log in to your customer account']]
+2021-12-27 20:12:857 INFO  SignInPage :30 - Click on create account : [[ChromeDriver: chrome on WINDOWS (e9cba024772c987f6f047df530031434)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-27 20:12:444 INFO  CreateAccountPage :60 - Enter first name : 123
+2021-12-27 20:12:561 INFO  CreateAccountPage :65 - Enter last name : and123
+2021-12-27 20:12:693 INFO  CreateAccountPage :70 - Enter password : asd123
+2021-12-27 20:12:776 INFO  CreateAccountPage :106 - Verify first name error : error
+2021-12-27 20:12:830 INFO  CreateAccountPage :112 - Verify last name error : error
+2021-12-27 20:12:915 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 20:12:749 INFO  HomePage :48 - Click on sign In tab : [[ChromeDriver: chrome on WINDOWS (6f6098e7c6517aef41895a5084466d59)] -> xpath: //a[@title='Log in to your customer account']]
+2021-12-27 20:12:02 INFO  SignInPage :30 - Click on create account : [[ChromeDriver: chrome on WINDOWS (6f6098e7c6517aef41895a5084466d59)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-27 20:12:641 INFO  CreateAccountPage :60 - Enter first name : ram1
+2021-12-27 20:12:761 INFO  CreateAccountPage :65 - Enter last name : 12kumar
+2021-12-27 20:12:885 INFO  CreateAccountPage :70 - Enter password : asd123
+2021-12-27 20:12:938 INFO  CreateAccountPage :106 - Verify first name error : error
+2021-12-27 20:12:995 INFO  CreateAccountPage :112 - Verify last name error : error
+2021-12-27 20:12:997 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 20:12:489 INFO  HomePage :48 - Click on sign In tab : [[ChromeDriver: chrome on WINDOWS (72f8a3a299be1680d2d936c863c09a32)] -> xpath: //a[@title='Log in to your customer account']]
+2021-12-27 20:12:752 INFO  SignInPage :30 - Click on create account : [[ChromeDriver: chrome on WINDOWS (72f8a3a299be1680d2d936c863c09a32)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-27 20:12:16 INFO  CreateAccountPage :60 - Enter first name : 123
+2021-12-27 20:12:149 INFO  CreateAccountPage :65 - Enter last name : and123
+2021-12-27 20:12:280 INFO  CreateAccountPage :70 - Enter password : asd123
+2021-12-27 20:12:500 INFO  CreateAccountPage :100 - Click on register : [[ChromeDriver: chrome on WINDOWS (72f8a3a299be1680d2d936c863c09a32)] -> xpath: //span[normalize-space()='Register']]
+2021-12-27 20:12:539 INFO  CreateAccountPage :118 - Verify error message : [[ChromeDriver: chrome on WINDOWS (72f8a3a299be1680d2d936c863c09a32)] -> xpath: //div[@class='alert alert-danger']//p]
+2021-12-27 20:12:321 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 20:12:470 INFO  HomePage :48 - Click on sign In tab : [[ChromeDriver: chrome on WINDOWS (e3e0a1d9f6b3b23a318cf7d1a2cb6056)] -> xpath: //a[@title='Log in to your customer account']]
+2021-12-27 20:12:675 INFO  SignInPage :30 - Click on create account : [[ChromeDriver: chrome on WINDOWS (e3e0a1d9f6b3b23a318cf7d1a2cb6056)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-27 20:12:409 INFO  CreateAccountPage :60 - Enter first name : ram1
+2021-12-27 20:12:523 INFO  CreateAccountPage :65 - Enter last name : 12kumar
+2021-12-27 20:12:623 INFO  CreateAccountPage :70 - Enter password : asd123
+2021-12-27 20:12:795 INFO  CreateAccountPage :100 - Click on register : [[ChromeDriver: chrome on WINDOWS (e3e0a1d9f6b3b23a318cf7d1a2cb6056)] -> xpath: //span[normalize-space()='Register']]
+2021-12-27 20:12:834 INFO  CreateAccountPage :118 - Verify error message : [[ChromeDriver: chrome on WINDOWS (e3e0a1d9f6b3b23a318cf7d1a2cb6056)] -> xpath: //div[@class='alert alert-danger']//p]
+2021-12-27 20:12:601 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 20:12:878 INFO  HomePage :48 - Click on sign In tab : [[ChromeDriver: chrome on WINDOWS (5ffbe5fed2b93e74987af31a5a940f41)] -> xpath: //a[@title='Log in to your customer account']]
+2021-12-27 20:12:162 INFO  SignInPage :30 - Click on create account : [[ChromeDriver: chrome on WINDOWS (5ffbe5fed2b93e74987af31a5a940f41)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-27 20:12:421 INFO  CreateAccountPage :123 - Enter first name : Ram
+2021-12-27 20:12:534 INFO  CreateAccountPage :125 - Enter last name : Kumar
+2021-12-27 20:12:645 INFO  CreateAccountPage :127 - Enter password : abc1234
+2021-12-27 20:12:753 INFO  CreateAccountPage :129 - Enter address line 1 : 9 Ayodhya Street
+2021-12-27 20:12:836 INFO  CreateAccountPage :131 - Enter city : London
+2021-12-27 20:12:35 INFO  CreateAccountPage :133 - Select state : Arizona
+2021-12-27 20:12:125 INFO  CreateAccountPage :135 - Enter postcode : 12345
+2021-12-27 20:12:227 INFO  CreateAccountPage :137 - Enter mobile number : 01234567891
+2021-12-27 20:12:728 INFO  CreateAccountPage :100 - Click on register : [[ChromeDriver: chrome on WINDOWS (5ffbe5fed2b93e74987af31a5a940f41)] -> xpath: //span[normalize-space()='Register']]
+2021-12-27 20:12:768 INFO  MyAccountPage :29 - Verify page title : [[ChromeDriver: chrome on WINDOWS (5ffbe5fed2b93e74987af31a5a940f41)] -> xpath: //h1[@class='page-heading']]
+2021-12-27 20:12:806 INFO  MyAccountPage :35 - Verify page has account name : Ram Kumar
+2021-12-27 20:12:626 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 20:12:633 INFO  HomePage :35 - Click on women category : [[ChromeDriver: chrome on WINDOWS (699b2ecbab0f14d0dcad7e168fa15c6b)] -> xpath: //a[@title='Women']]
+2021-12-27 20:12:878 INFO  WomanPage :23 - Click on product : [[ChromeDriver: chrome on WINDOWS (699b2ecbab0f14d0dcad7e168fa15c6b)] -> xpath: //h5[@itemprop='name']//a[@title='Faded Short Sleeve T-shirts']]
+2021-12-27 20:12:962 INFO  ProductsPage :29 - Click on item to add in to basket : [[ChromeDriver: chrome on WINDOWS (699b2ecbab0f14d0dcad7e168fa15c6b)] -> xpath: //button[@name='Submit']//span]
+2021-12-27 20:12:681 INFO  ProductsPage :34 - Click on process to check out button :  [[ChromeDriver: chrome on WINDOWS (699b2ecbab0f14d0dcad7e168fa15c6b)] -> xpath: //a[@title='Proceed to checkout']//span]
+2021-12-27 20:12:730 INFO  ShoppingCartPage :30 - Verify the delete button is displayed :[[ChromeDriver: chrome on WINDOWS (699b2ecbab0f14d0dcad7e168fa15c6b)] -> xpath: //i[@class='icon-trash']]
+2021-12-27 20:12:820 INFO  ShoppingCartPage :35 - Click on Delete button : [[ChromeDriver: chrome on WINDOWS (699b2ecbab0f14d0dcad7e168fa15c6b)] -> xpath: //i[@class='icon-trash']]
+2021-12-27 20:12:72 INFO  ShoppingCartSummaryPage :24 - Verify the cart is emptyYour shopping cart is empty.
+2021-12-27 20:12:936 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 20:12:835 INFO  HomePage :52 - Click on our store tab :[[ChromeDriver: chrome on WINDOWS (12a90946f25ae1c65d768b6ae17e14ca)] -> xpath: //a[@title='Our stores']]
+2021-12-27 20:12:588 INFO  ManageDriver :38 - Scroll through the map : [[ChromeDriver: chrome on WINDOWS (12a90946f25ae1c65d768b6ae17e14ca)] -> xpath: //div[@id='map']]
+2021-12-27 20:12:954 INFO  ManageDriver :43 - Take screenshot : WestPalmBeach
+2021-12-27 20:12:862 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 20:12:379 INFO  HomePage :42 - Click on summer option : [[ChromeDriver: chrome on WINDOWS (b20e7e274671fe9ee5d027fb69bf9bcd)] -> xpath: //ul[@class='submenu-container clearfix first-in-line-xs']//ul//li//a[@title='Summer Dresses'][normalize-space()='Summer Dresses']]
+2021-12-27 20:12:419 INFO  SummerOptionPage :33 - Verify summer dress page : SUMMER DRESSES 
+2021-12-27 20:12:281 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 20:12:820 INFO  HomePage :42 - Click on summer option : [[ChromeDriver: chrome on WINDOWS (6fe7f354bea63ad02754f1c6e24e0847)] -> xpath: //ul[@class='submenu-container clearfix first-in-line-xs']//ul//li//a[@title='Summer Dresses'][normalize-space()='Summer Dresses']]
+2021-12-27 20:12:289 INFO  SummerOptionPage :40 - Change the price range : [[ChromeDriver: chrome on WINDOWS (6fe7f354bea63ad02754f1c6e24e0847)] -> xpath: //div[@id='left_column']//a[2]]
